@@ -1,4 +1,6 @@
 Movie Search App
+
+
 A simple React-based application to search for movies using the TMDb (The Movie Database) API. The app allows users to search for movies, add custom movies to the list, and store the data in local storage.
 
 Features
