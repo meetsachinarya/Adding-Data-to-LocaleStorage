@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .searchBar {
+    width: 300px;
+    padding: 9px;
+    background-color: #eee;
+  }
+  .btn {
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+  }
+  
